@@ -53,6 +53,13 @@ p {
   font-weight: 400;
 }
 
+a {
+  font-family: 'Noto Serif Thai', serif;
+  font-weight: 500;
+  font-size: 18px;
+  color:#806636;
+}
+
 body {
   background-color: #F7F1EE;
 }
@@ -61,4 +68,11 @@ body {
   font-family: 'Kanit', sans-serif;
   font-weight: 400;
   font-size: 18px;
+}
+
+.linkfont {
+  font-family: 'Noto Serif Thai', serif;
+  font-weight: 500;
+  font-size: 18px;
+  color:#806636;
 }
