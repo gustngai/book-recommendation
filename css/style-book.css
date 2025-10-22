@@ -1,0 +1,64 @@
+/* div {
+    border: 2px solid;
+} */
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;     /* จัดกึ่งกลางแนวนอน */
+  justify-content: center; /* จัดกึ่งกลางแนวตั้ง (ถ้ามีความสูงกำหนด) */
+  text-align: center;      /* จัดข้อความให้อยู่กึ่งกลาง */
+}
+
+
+.bg-lightgray {
+  background-color: #ECECEC;
+  color: #181818;
+}
+
+.bg-darkblue1 {
+  background-color: #094056;
+  color: #E3E0D4;
+}
+
+.bg-darkblue2 {
+  background-color: #094056;
+  color: #ffffff;
+}
+
+.bg-brown {
+  background-color: #b09374;
+  color: #E3E0D4;
+}
+
+.text-darkblue {
+  color: #020091;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-beige {
+  color: #e3d6a4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Serif Thai', serif;
+  font-weight: 600;
+}
+
+p {
+  font-family: 'Noto Serif Thai', serif;
+  font-weight: 400;
+}
+
+body {
+  background-color: #F7F1EE;
+}
+
+.kanit-light {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
